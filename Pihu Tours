@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pihu Tours and Travels</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; }
+        header { background: #2E86C1; color: white; padding: 20px; font-size: 24px; }
+        section { padding: 20px; }
+        .contact { background: #f4f4f4; padding: 20px; }
+        .btn { display: inline-block; background: #2E86C1; color: white; padding: 10px 20px; text-decoration: none; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pihu Tours and Travels</h1>
+        <p>Reliable & Comfortable Travel Services in Himachal Pradesh</p>
+    </header>
+    <section>
+        <h2>Our Services</h2>
+        <p>We provide premium taxi services for local sightseeing, outstation travel, and customized tour packages.</p>
+        <h3>Available Vehicles</h3>
+        <p>🚗 3 Commercial Innova Vehicles</p>
+        <a href="#contact" class="btn">Book Now</a>
+    </section>
+    <section class="contact" id="contact">
+        <h2>Contact Us</h2>
+        <p>📞 Phone: +91 XXXXX XXXXX</p>
+        <p>📩 Email: info@pihutours.com</p>
+        <p>📍 Location: Himachal Pradesh, India</p>
+        <a href="https://wa.me/91XXXXXXXXXX" class="btn">Chat on WhatsApp</a>
+    </section>
+</body>
+</html>
